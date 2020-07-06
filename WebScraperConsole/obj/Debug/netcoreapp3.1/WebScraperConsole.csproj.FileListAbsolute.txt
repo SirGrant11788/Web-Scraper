@@ -1,0 +1,15 @@
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\bin\Debug\netcoreapp3.1\WebScraperConsole.exe
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\obj\Debug\netcoreapp3.1\WebScraperConsole.csprojAssemblyReference.cache
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\obj\Debug\netcoreapp3.1\WebScraperConsole.AssemblyInfoInputs.cache
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\obj\Debug\netcoreapp3.1\WebScraperConsole.AssemblyInfo.cs
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\obj\Debug\netcoreapp3.1\WebScraperConsole.csproj.CopyComplete
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\bin\Debug\netcoreapp3.1\WebScraperConsole.deps.json
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\bin\Debug\netcoreapp3.1\WebScraperConsole.runtimeconfig.json
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\bin\Debug\netcoreapp3.1\WebScraperConsole.runtimeconfig.dev.json
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\bin\Debug\netcoreapp3.1\WebScraperConsole.dll
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\bin\Debug\netcoreapp3.1\WebScraperConsole.pdb
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\obj\Debug\netcoreapp3.1\WebScraperConsole.dll
+C:\Users\grant\source\repos\WebScraperConsole\WebScraperConsole\obj\Debug\netcoreapp3.1\WebScraperConsole.pdb
